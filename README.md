@@ -1,0 +1,1 @@
+This repo is used to collect all the issues related to [gareeb app](https://play.google.com/apps/testing/biz.gareeb.marketplace.app) during the testing phase.
